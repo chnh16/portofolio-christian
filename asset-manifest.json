@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portofolio-christian/static/css/main.8e0e3da7.chunk.css",
+    "main.js": "/portofolio-christian/static/js/main.43eb6bb5.chunk.js",
+    "main.js.map": "/portofolio-christian/static/js/main.43eb6bb5.chunk.js.map",
+    "runtime-main.js": "/portofolio-christian/static/js/runtime-main.dfdec93e.js",
+    "runtime-main.js.map": "/portofolio-christian/static/js/runtime-main.dfdec93e.js.map",
+    "static/js/2.094740ca.chunk.js": "/portofolio-christian/static/js/2.094740ca.chunk.js",
+    "static/js/2.094740ca.chunk.js.map": "/portofolio-christian/static/js/2.094740ca.chunk.js.map",
+    "index.html": "/portofolio-christian/index.html",
+    "static/css/main.8e0e3da7.chunk.css.map": "/portofolio-christian/static/css/main.8e0e3da7.chunk.css.map",
+    "static/js/2.094740ca.chunk.js.LICENSE.txt": "/portofolio-christian/static/js/2.094740ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfdec93e.js",
+    "static/js/2.094740ca.chunk.js",
+    "static/css/main.8e0e3da7.chunk.css",
+    "static/js/main.43eb6bb5.chunk.js"
+  ]
+}
