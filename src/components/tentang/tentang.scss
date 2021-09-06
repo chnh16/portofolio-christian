@@ -1,0 +1,53 @@
+.tentang{
+    background-color: #192E2E;
+    color: #f9f7f5;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    
+    .left{
+        background-color: #192E2E;
+        flex: 0.5;
+        margin-bottom: 0px;
+        scrollbar-width: none;
+        &::-webkit-scrollbar{
+            display: none;
+        }
+    }
+
+    .img-container{
+        margin-top: 10px;
+        width: 750px;
+        height: 750px;
+        background-color: white;
+        border-radius: 50%;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+        float: right;
+
+        .foto{
+            margin-bottom: 80px;
+            height: 90%;
+            width: auto;
+        }
+    }
+    .right{
+        margin-left: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        flex: 0.5;
+
+        p{
+            font-weight: 300;
+            margin-right: 30px;
+            text-align: justify;
+        }
+
+        h1{
+            margin-bottom: 30px;
+            font-weight: 500;
+        }
+    }
+}

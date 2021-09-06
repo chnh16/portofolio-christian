@@ -1,0 +1,35 @@
+.pendidikan{
+    background-color: #192E2E;
+    color: #f9f7f5;
+    display: flex;
+
+    .left{
+        background-color: white;
+        flex: 0.5;
+        overflow: hidden;
+
+    .img-container{
+        img{
+            width: 100%;
+            height: auto;
+        }
+    }
+    }
+
+    .right{
+        margin-left: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        flex: 0.5;
+
+        h1{
+            font-weight: 500;
+            margin-bottom: 20px;
+        }
+        h3{
+            font-weight: 300;
+        }
+    }
+}
